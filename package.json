@@ -1,6 +1,6 @@
 {
   "name": "saurav-portfolio",
-  "homepage": "https://royal-saurav.github.io/saurav-portfolio",
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
