@@ -1,0 +1,77 @@
+{
+  "main": {
+    "name":"Saurav Kumar",
+    "occupation":"Web Developer",
+    "description":"I like to code, and enjoy bringing ideas to life in the browser",
+    "image":"profilepic.png",
+    "contactmessage":"If you like my work and have some cool projects to work on, just send me a direct message or contact me through social sites. I am open for work as React Developer.",
+    "email": "nitsaurav.823@gmail.com",
+    "phone": "+91 9113766087",
+    "address":{
+      "city":"Gaya",
+      "state":"Bihar",
+      "zip": "823001"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/drive/u/6/my-drive",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/imroyal97",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sauravkr97/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/royal-saurav",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"hhttps://join.skype.com/yZQ73LW6RJSL",
+        "className":"fa fa-skype"
+      },
+      {
+        "name":"email",
+        "url":"mailto:nitsaurav.823@gmail.com?subject=The%20subject%20of%20the%20mail",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{ 
+    "education":[
+      {
+        "school":"NIIT, Gaya",
+        "degree":"Web Development",
+        "graduated":"August 2017",
+        "description":"Learn HTML Technology and CSS."
+      },
+      {
+        "school":"Neelkanth Institute of Technology, Meerut (U.P.)",
+        "degree":"Computer Science and Engineering",
+        "graduated":"June 2019",
+        "description":"It is affiliated by A.K.T.U. University, Lucknow (Uttar Pradesh)."
+      }
+    ],
+    "work":[
+      {
+        "company": "Covid-19 Tracker",
+        "title": "React Developer",
+        "years": "March 2021 - Present",
+        "link": "https://royal-saurav.github.io/covid-19-tracker-react",
+        "description": " Covid-19 tracker is created using React JS. This tracker aims to show the numbers & trends of people Infected, Recovered, Active and Deaths due to COVID-19."
+      },
+      {
+        "company":"Arjava Advisors Pvt. Ltd. ",
+        "title":"Web Developer",
+        "years":"August 2020 - December 2020",
+        "link": "https://myewards.com/",
+        "description":"It is a Online Website. The main feature of this website is: Client can give rewards, loyalty bonus, booklets, coupon, promos to his users. Can be make segments for analyzing who is active users. Manage Clients outlets in different citites . SMS Integration for Clients and their controls. Clients, outlets, admin and Users control panel."
+      }
+    ]
+  }
+}
